@@ -4,6 +4,8 @@
 enum asset_type {texture, sound, animation, script};
 
 int main(){
+    int sound = 8;
+
     int asset_value;
 
     asset_value = sound;
